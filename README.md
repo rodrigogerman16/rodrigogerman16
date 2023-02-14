@@ -1,19 +1,16 @@
 <div align="center">
-<h1> Hi, I'm Rodrigo 👋 </h1>
+  <h1> Hi, I'm Rodrigo 👋 </h1>
 
   <div id="header">
     <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
   </div>
-  <p>I'm a frontend developer with 2+ years of experience creating responsive and engaging user interfaces. I love to build beautiful and functional websites and web applications that provide an excellent user experience.</p>
+  <p>I'm a frontend developer with 2+ years of experience creating responsive and engaging user interfaces. I love to build beautiful and functional websites and web     applications that provide an excellent user experience.</p>
   
   <div id="badges">
   <a href="https://www.linkedin.com/in/rodrigo-german/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.instagram.com/rodrigogerman2/?hl=es">
-    <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge"/>
-  </a>
-</div>
+  </div>
 </div>
 
 <h2> Skills </h2>
