@@ -5,6 +5,9 @@
     <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
   </div>
   <p>I'm a frontend developer with 2+ years of experience creating responsive and engaging user interfaces. I love to build beautiful and functional websites and web     applications that provide an excellent user experience.</p>
+  <p> Born in Argentina, living in Madrid - Spain. </p>
+  <span> Things that i like to do in my free time: <span>
+    <p>Camping 🏕️ - Videogames 🎮 - Electronic Music 🎧 </p>
   
   <div id="badges">
   <a href="https://www.linkedin.com/in/rodrigo-german/">
@@ -29,9 +32,8 @@
 </div>
 
 <h2>Portfolio: </h2>
-<p>You can check out some of my recent projects <a href="https://portfolio-pi-taupe-46.vercel.app/" target="_blank" rel="noreferrer"> here </a></p>
-
-Here are a few examples:
+<span>You can check out some of my recent projects <a href="https://portfolio-pi-taupe-46.vercel.app/" target="_blank" rel="noreferrer"> here </a></span>
+<p>Here are a few examples:</p>
 
 <h3>Mercado Solidario (Solidarity Market):</h3>
 On this website... <br/>
